@@ -1,5 +1,5 @@
 <?php
 print('test...');
-print('test...3');
+print('test..3');
 exit;
 ?>
